@@ -1,0 +1,15 @@
+body {
+    background-color:#FFB6C1;
+    background-image: url('../img/cat.jpg'); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+table {
+    background-color:
+    font-size: 14pt;
+    text-align: center;
+	position: center;
+}

@@ -1,0 +1,16 @@
+BODY  {
+	background-color:#ADD8E6; /* Цвет фона веб-страницы */
+   }
+   
+p{
+    text-align: center;
+    text-shadow: 1px 1px 2px Yellow, 0 0 1em red;
+}
+
+    p.div {
+        text-align: center;
+        text-shadow: 1px 1px 2px Yellow, 0 0 1em red;
+        width: 50%;
+	}
+	
+	
