@@ -1,0 +1,30 @@
+BODY {
+	background-color:#FFB6C1; /* Цвет фона веб-страницы */
+   }
+H1 {
+   background-color: RGb(176, 196, 222); /* Цвет фона ячеек */
+   }
+H2  {
+	background-color: RGb(176, 196, 222); /* Цвет фона ячеек */
+p {text-align: justify;
+}
+p.red {
+     text-align: center;
+	 color: #FFFFE0;
+}
+
+p   {text-shadow; 1px 1px 2px Olive, 0 0 1em blue;
+}
+p   {
+    text-decoration; 
+}
+ <style type="text/css">
+   table {
+    background: SteelBlue; /* Цвет фона ячеек */
+   }
+   </style>
+   
+  }
+	
+  
+	
